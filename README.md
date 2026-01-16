@@ -1,4 +1,4 @@
-﻿*This project has been created as part of the 42 curriculum by tclouet.*
+﻿*This project was created in January 2026 as part of the 42 curriculum by tclouet.*
 
  <img width="267" height="222" alt="Screenshot from 2026-01-16 09-05-25" src="https://github.com/user-attachments/assets/2dd69ce2-6bab-46a7-92d2-2d2500433930" />
 
