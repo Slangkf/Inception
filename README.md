@@ -1,5 +1,12 @@
 ﻿*This project has been created as part of the 42 curriculum by tclouet.*
 
+ <img width="267" height="222" alt="Screenshot from 2026-01-16 09-05-25" src="https://github.com/user-attachments/assets/2dd69ce2-6bab-46a7-92d2-2d2500433930" />
+
+<img width="1166" height="544" alt="Screenshot from 2026-01-16 09-06-08" src="https://github.com/user-attachments/assets/c699e52b-72f7-46c3-af99-39011600a549" />
+
+
+ 
+
 # Description
 
 *This section presents the project, its goals and a brief overview :*
