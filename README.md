@@ -73,7 +73,7 @@
 #### Note:
 	The site uses a self-signed SSL certificate, so your browser may warn about the certificate.
 
-# Ressources
+# Resources
 
 *This section lists references related to the topic, as well as a description of how AI has been used :*
 
