@@ -1,12 +1,12 @@
 #!/bin/bash
 
-set -eou pipefail
+set -e
 
-# Checks if WordPress is installed.
 cd /var/www/html/wordpress
-if wp --allow-root core is-installed 2>/dev/null; then
-    # WP is installed. Checks core file integrity.
-    wp --allow-root core verify-checksums
-else
-    echo "Hey, something went wrong during the WP install. Check your logs."
+
+if ! wp --allow-root core is-installed; then
+    echo "WordPress is not installed."
+    exit 1
 fi
+
+echo "WordPress healthcheck OK."
